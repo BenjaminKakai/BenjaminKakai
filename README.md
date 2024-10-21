@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Benjamin Kakai
-#### Software Engineer
+#### a Software Engineer
 ![Software Engineer](https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)
 
 I specialize in Java/Spring Boot, Ruby on Rails, and JavaScript. My skills cover frontend development with React and backend with Node.js. I'm adept at working with SQL databases like PostgreSQL and NoSQL options such as MongoDB and Firebase. I also have experience with Git/GitHub for version control and am familiar with cloud platforms including AWS, Azure, and Google Cloud.
