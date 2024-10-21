@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Benjamin
-#### a Software Engineer
-![a Software Engineer](https://x.com/benjamin_kakai/photo)
+### Hi there 👋, I am Benjamin Kakai
+#### Software Engineer
+![Software Engineer](https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)
 
 I specialize in Java/Spring Boot, Ruby on Rails, and JavaScript. My skills cover frontend development with React and backend with Node.js. I'm adept at working with SQL databases like PostgreSQL and NoSQL options such as MongoDB and Firebase. I also have experience with Git/GitHub for version control and am familiar with cloud platforms including AWS, Azure, and Google Cloud.
 
@@ -13,19 +13,17 @@ Skills: Java, Spring Boot, Ruby on Rails, JavaScript, React, Node.js, PostgreSQL
 - 😄 Pronouns: He/Him 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/BenjaminKakai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/benjamin-kakai-7b599121a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/Jaminkakai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/benjaminkakai//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/Atechieforteky)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/24178513/benjamin-kakai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://benjaminkakai.netlify.app/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BenjaminKakai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/benjamin-kakai-7b599121a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/Jaminkakai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/benjaminkakai//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/Atechieforteky)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/24178513/benjamin-kakai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://benjaminkakai.netlify.app/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/BenjaminKakai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BenjaminKakai)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/BenjaminKakai)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjaminKakai&show_icons=true&count_private=true)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/BenjaminKakai&show_icons=true&count_private=true)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/BenjaminKakai/contributions?format=svg&private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/BenjaminKakai/contributions?format=svg&private=true)  
+![GitHub metrics](https://metrics.lecoq.io/BenjaminKakai)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/BenjaminKakai)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/BenjaminKakai)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=BenjaminKakai)  
 
