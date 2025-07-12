@@ -2,8 +2,40 @@
 #### a Software Engineer  
 ![Software Engineer](https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)
 
-🔧 **Skills**:  
-Java • Spring Boot • Ruby on Rails • JavaScript • TypeScript • React • Next.js • Node.js • NestJS • Express.js • PostgreSQL • MongoDB • Firebase • Git/GitHub • AWS • Azure • Google Cloud
+🔧 **Skills**:
+
+<table>
+  <tr>
+    <td>• Java</td>
+    <td>• Spring Boot</td>
+    <td>• Ruby on Rails</td>
+  </tr>
+  <tr>
+    <td>• JavaScript</td>
+    <td>• TypeScript</td>
+    <td>• React</td>
+  </tr>
+  <tr>
+    <td>• Next.js</td>
+    <td>• Node.js</td>
+    <td>• NestJS</td>
+  </tr>
+  <tr>
+    <td>• Express.js</td>
+    <td>• PostgreSQL</td>
+    <td>• MongoDB</td>
+  </tr>
+  <tr>
+    <td>• Firebase</td>
+    <td>• Git/GitHub</td>
+    <td>• AWS</td>
+  </tr>
+  <tr>
+    <td>• Azure</td>
+    <td>• Google Cloud</td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
