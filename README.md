@@ -2,7 +2,13 @@
 #### a Software Engineer
 ![Software Engineer](https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)
 
-I specialize in Java/Spring Boot, Ruby on Rails, and JavaScript. My skills cover frontend development with React and backend development with Node.js. I'm adept at working with SQL databases like PostgreSQL and NoSQL options such as MongoDB and Firebase. I also have experience with Git/GitHub for version control and am familiar with cloud platforms including AWS, Azure, and Google Cloud.
+My name is Benjamin Kakai. I am a software developer with three years of experience, currently working with Webmasters Kenya.
+
+The main technologies we use are Next.js, NestJS, Express, and Node.js. The languages I mostly work with are JavaScript and TypeScript. Before this, I was using Java and Spring Boot.
+
+I have solid experience with API Gateway and microservice architecture. I'm also well-versed in building custom video and audio calling systems. I’ve worked on chat services, real-time chat integrations, and payment integrations using various APIs.
+
+I also specialize in Java/Spring Boot, Ruby on Rails, and JavaScript. My skills cover frontend development with React and backend development with Node.js. I'm adept at working with SQL databases like PostgreSQL and NoSQL options such as MongoDB and Firebase. I also have experience with Git/GitHub for version control and am familiar with cloud platforms including AWS, Azure, and Google Cloud.
 
 Skills: Java, Spring Boot, Ruby on Rails, JavaScript, React, Node.js, PostgreSQL, MongoDB, Firebase, Git/GitHub, AWS, Azure, and Google Cloud.
 
