@@ -2,9 +2,9 @@
 #### a Software Engineer
 ![Software Engineer](https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)
 
-My name is Benjamin Kakai. I am a software developer with three years of experience, currently working with Webmasters Kenya.
+My name is Benjamin Kakai. I am a software developer with three years of experience.
 
-The main technologies we use are Next.js, NestJS, Express, and Node.js. The languages I mostly work with are JavaScript and TypeScript. Before this, I was using Java and Spring Boot.
+I work extensively with Next.js, NestJS, Express, and Node.js. The languages I mostly use are JavaScript and TypeScript. Before this, I was using Java and Spring Boot.
 
 I have solid experience with API Gateway and microservice architecture. I'm also well-versed in building custom video and audio calling systems. I’ve worked on chat services, real-time chat integrations, and payment integrations using various APIs.
 
