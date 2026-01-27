@@ -17,27 +17,9 @@
     <td>• NestJS</td>
     <td>• Express.js</td>
   </tr>
-  <tr>
-    <td>• PostgreSQL</td>
-    <td>• MongoDB</td>
-    <td>• Firebase</td>
-    <td>• Git/GitHub</td>
-    <td>• AWS</td>
-  </tr>
-  <tr>
-    <td>• Azure</td>
-    <td>• Google Cloud</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+ 
 </table>
 
-🔭 **I’m currently working on**: E-commerce and client management systems using a JavaScript stack (Express.js/Node.js + React.js).  
-🌱 **I’m currently learning**: Embedded systems with C++ and sharpening my Java/Spring Boot skills.  
-👯 **I’m open to collaborating on**: Any cool projects—count me in!  
-💬 **Ask me about**: Java, Spring Boot, or general tech. Happy to help or learn together.  
-😄 **Pronouns**: He/Him  
 
 🌐 **Connect with me**:  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/benjamin-kakai-7b599121a)  
