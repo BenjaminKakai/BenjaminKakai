@@ -88,13 +88,13 @@ Farmer community, market prices, peer knowledge sharing across rural Kenya.
 </td>
 <td width="50%" valign="top">
 
-### ✈️ Msafiri Ventures
+### ✈️ [Msafiri Adventure](https://msafiriadventure.com)
 **Travel + adventure bookings**
 Tour operator marketplace + booking engine. Built off the SnapHarvest stack.
 
 `NestJS` · `Next.js` · `Flutter` · `M-Pesa`
 
-🛡️ Client code · source on request
+🌐 [Live](https://msafiriadventure.com)  ·  🛡️ Source on request
 
 </td>
 </tr>
