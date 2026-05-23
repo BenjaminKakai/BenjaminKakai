@@ -62,13 +62,15 @@ Production payments rail powering government service fees across Kenya. M-Pesa, 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 BrickShare
-**Property tokenisation + investment platform**
-Multi-issuer real-estate platform letting accredited investors buy fractional ownership in vetted properties.
+### 🏢 [BrickShare](https://brickshare.co.ke)
+**Property investment + asset management — twin platforms**
+**Invest** — fractional ownership in vetted properties for accredited investors.
+**Manage** — full property-management suite for landlords, tenants, vendors.
 
 `NestJS` · `Next.js 14` · `Stripe + M-Pesa` · `KYC`
 
-🛡️ Client code · source on request
+🌐 [Invest](https://brickshare.co.ke) · [Investor Admin](https://admin.brickshare.co.ke) · [Manage](https://assets.brickshare.co.ke) · [Manage Admin](https://admin-assets.brickshare.co.ke)
+🛡️ Source on request
 
 </td>
 </tr>
