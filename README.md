@@ -33,7 +33,7 @@ Government of Mozambique's official job portal, operated under the Ministry of Y
 
 `Spring Boot 17` · `PostgreSQL` · `Next.js 14` · `Flutter 3.35` · `K8s` · `ArgoCD`
 
-[Backend](https://github.com/BenjaminKakai/nepm-backend) · [Web](https://github.com/BenjaminKakai/nepm-web-client) · [Mobile](https://github.com/BenjaminKakai/nepm-flutter)
+🌐 [Live](https://nepmz.com)  ·  🛡️ Government code · source available on request
 
 </td>
 <td width="50%" valign="top">
@@ -44,7 +44,7 @@ Government customer support analytics, escalation routing, agent workbench. Powe
 
 `NestJS` · `Prisma` · `PostgreSQL` · `Next.js` · `Flutter (admin)`
 
-[Backend](https://github.com/BenjaminKakai/ecitizen-support-backend)
+🌐 [Live](https://ecitizen.wasaahost.com)  ·  🛡️ Government code · source on request
 
 </td>
 </tr>
@@ -57,7 +57,7 @@ Production payments rail powering government service fees across Kenya. M-Pesa, 
 
 `NestJS` · `M-Pesa Daraja` · `PostgreSQL`
 
-[Backend](https://github.com/BenjaminKakai/Pesa-flow-backend)
+🌐 [Live](https://pesaflow.ai)
 
 </td>
 <td width="50%" valign="top">
@@ -68,7 +68,7 @@ Multi-issuer real-estate platform letting accredited investors buy fractional ow
 
 `NestJS` · `Next.js 14` · `Stripe + M-Pesa` · `KYC`
 
-[Backend](https://github.com/BenjaminKakai/BrickShare-backend) · [Web](https://github.com/BenjaminKakai/Brickshare-web-client) · [Admin](https://github.com/BenjaminKakai/Brickshare-Admin)
+🛡️ Client code · source on request
 
 </td>
 </tr>
@@ -81,7 +81,7 @@ Farmer community, market prices, peer knowledge sharing across rural Kenya.
 
 `NestJS` · `Next.js` · `Flutter` · `Postgres`
 
-[Backend](https://github.com/BenjaminKakai/snapharvest-backend)
+🌐 [Live](https://snapharvest.net)  ·  🛡️ Client code · source on request
 
 </td>
 <td width="50%" valign="top">
@@ -92,7 +92,7 @@ Tour operator marketplace + booking engine. Built off the SnapHarvest stack.
 
 `NestJS` · `Next.js` · `Flutter` · `M-Pesa`
 
-[Backend](https://github.com/BenjaminKakai/msafiri-ventures-backend)
+🛡️ Client code · source on request
 
 </td>
 </tr>
@@ -106,7 +106,7 @@ Tour operator marketplace + booking engine. Built off the SnapHarvest stack.
 | **wasaa-remit** | Cross-border remittance | Stripe · M-Pesa · Thunes · KCB Vooma |
 | **wasaa-lifestyle** | Service booking marketplace | NestJS · Next.js |
 | **wasaa-tipping / escrow / payroll** | Microservices for the financial layer | NestJS |
-| **[wasaachat ↔ wasaapay integration](https://github.com/BenjaminKakai/wasaachat-wasaapay-integration)** | In-chat payments | TypeScript |
+| **wasaachat ↔ wasaapay integration** | In-chat payments | TypeScript |
 
 ### 🎮 Shanzz Gaming, 🤖 [TestPilot AI](https://testpilot.ai), 💊 [AfyaPass](https://afyapass.com), 🙏 FaithPanda, 📚 SkillSasa, 💅 PostNet, 🌍 DMRV, 🔐 Kins, 🎉 PartyPass
 Active client products at various stages — from production with daily users to first-mile MVPs.
