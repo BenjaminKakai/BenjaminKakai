@@ -1,73 +1,152 @@
-# Benjamin Kakai
+<!-- Banner — animated typing intro -->
+<p align="center">
+  <a href="https://github.com/BenjaminKakai">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=600&color=009E49&center=true&vCenter=true&width=820&lines=Benjamin+Kakai+%E2%80%94+Full-Stack+Engineer;Spring+Boot+%C2%B7+Next.js+%C2%B7+Flutter+%C2%B7+Kubernetes;Shipping+across+Mozambique+%26+Kenya;Government+%E2%80%A2+Fintech+%E2%80%A2+AI" alt="Benjamin Kakai" />
+  </a>
+</p>
 
-**Senior Full-Stack Engineer · Nairobi, Kenya**
-Building production systems across web, mobile, and microservices — billing real users, in real currencies, across East and Southern Africa.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-kakai-7b599121a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:benjaminkakaimasai@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/benjamin-kakai-7b599121a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:benjaminkakaimasai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Nairobi%2C%20Kenya-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=BenjaminKakai&style=for-the-badge&color=009E49&label=Profile+views" />
+</p>
 
 ---
 
 ## What I do
 
-I take products from `git init` to a live URL with real users — backend, web, mobile, infra, the lot. Most of my recent work sits inside private organisations (Webmasters Kenya, Wasaachat, web-masters-ke), so this profile won't show the code, but every link below is a live system you can hit from a browser today.
+I take products from `git init` to a live URL with real users — backend, web, mobile, infra, the lot. Most of my recent work sits inside private organisations (Webmasters Kenya, Wasaachat, web-masters-ke). The repos below are portfolio snapshots; every product link is a live system you can hit from a browser today.
 
 ---
 
-## Currently shipping
+## 🚀 Shipping right now
 
-### 🇲🇿 [nepmz.com](https://nepmz.com) — Mozambique National Employment Portal
-The Government of Mozambique's official job portal. Operated under the Ministry of Youth and Sports.
-- **Stack**: Spring Boot 17 · PostgreSQL · Flyway · JWT/Spring Security · Next.js 14 · Tailwind · Flutter 3.35 · Riverpod
-- **Surface area**: 4-app monorepo — `backend/`, `web-client/` (nepmz.com), `web-admin/` (admin.nepmz.com), `flutter/` (iOS + Android)
-- **Features**: AI-powered job matching, INEFP officer workbench (counselling/programmes/beneficiaries), labour inspections, TVET courses + certificates, M-Pesa/e-Mola wallet, ministries hierarchy, 10-role RBAC, bilingual pt-MZ/en
-- **Deploy**: GitHub Actions → GHCR → Helm → ArgoCD → Kubernetes
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🏢 BrickShare — Property tokenisation + investment platform
+### 🇲🇿 [NEPMZ](https://nepmz.com)
+**Mozambique National Employment Portal**
+Government of Mozambique's official job portal, operated under the Ministry of Youth and Sports (MJD).
+4-app monorepo serving citizens, employers, government officers, labour inspectors, TVET coordinators.
+
+`Spring Boot 17` · `PostgreSQL` · `Next.js 14` · `Flutter 3.35` · `K8s` · `ArgoCD`
+
+[Backend](https://github.com/BenjaminKakai/nepm-backend) · [Web](https://github.com/BenjaminKakai/nepm-web-client) · [Mobile](https://github.com/BenjaminKakai/nepm-flutter)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [eCitizen Support Command Centre](https://ecitizen.wasaahost.com)
+**Kenya eCitizen platform support console**
+Government customer support analytics, escalation routing, agent workbench. Powers the back office for Kenya's largest gov-tech platform.
+
+`NestJS` · `Prisma` · `PostgreSQL` · `Next.js` · `Flutter (admin)`
+
+[Backend](https://github.com/BenjaminKakai/ecitizen-support-backend)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💸 [PesaFlow](https://pesaflow.ai)
+**Government payments gateway**
+Production payments rail powering government service fees across Kenya. M-Pesa, card, bank transfer.
+
+`NestJS` · `M-Pesa Daraja` · `PostgreSQL`
+
+[Backend](https://github.com/BenjaminKakai/Pesa-flow-backend)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 BrickShare
+**Property tokenisation + investment platform**
 Multi-issuer real-estate platform letting accredited investors buy fractional ownership in vetted properties.
-- **Stack**: NestJS · PostgreSQL · Next.js 14 · Tailwind · KYC integration · Stripe + M-Pesa
-- **Apps**: Issuer dashboard, investor frontend, admin console
 
-### 🤖 [TestPilot AI](https://testpilot.ai) — AI-driven QA platform
-Generates and runs functional tests against arbitrary web apps using LLMs.
-- **Stack**: Next.js · NestJS · 6-service ML stack (Python · FastAPI · OpenAI · Anthropic · vector store · job queue)
-- **Apps**: backend, admin, frontend, Flutter
+`NestJS` · `Next.js 14` · `Stripe + M-Pesa` · `KYC`
 
-### 💊 [AfyaPass](https://afyapass.com) — Healthcare appointments + records SaaS
-Patient-facing health platform with appointments, e-prescriptions, and clinic management.
-- **Stack**: NestJS · PostgreSQL · Next.js · Flutter · AWS EC2 (us-east-2)
+[Backend](https://github.com/BenjaminKakai/BrickShare-backend) · [Web](https://github.com/BenjaminKakai/Brickshare-web-client) · [Admin](https://github.com/BenjaminKakai/Brickshare-Admin)
 
-### 💸 [PesaFlow](https://pesaflow.ai) — Government payments gateway
-Production gateway powering government service payments across Kenya.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🌐 eCitizen Service Command Centre
-Support + analytics console for Kenya's eCitizen platform.
-- **Stack**: Next.js admin + webclient · NestJS backend · Flutter admin
+### 🌱 [SnapHarvest](https://snapharvest.net)
+**Agricultural community platform**
+Farmer community, market prices, peer knowledge sharing across rural Kenya.
 
-### 📱 Wasaa Suite — wasaachat, remit, lifestyle, tipping, escrow, payroll
-- **wasaa-mobile-app**: Flutter chat client (in production)
-- **wasaa-remit**: Cross-border remittance — Stripe, M-Pesa, Thunes, KCB Vooma
-- **wasaa-lifestyle**: Service booking marketplace (admin web + client web)
-- **wasaa-services**: Tipping, escrow, payroll microservices
+`NestJS` · `Next.js` · `Flutter` · `Postgres`
 
-### 🌱 SnapHarvest · Msafiri Ventures · ProfitZone · FaithPanda · SkillSasa · PostNet · DMRV · Kins · PartyPass · Shanzz Gaming
+[Backend](https://github.com/BenjaminKakai/snapharvest-backend)
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ Msafiri Ventures
+**Travel + adventure bookings**
+Tour operator marketplace + booking engine. Built off the SnapHarvest stack.
+
+`NestJS` · `Next.js` · `Flutter` · `M-Pesa`
+
+[Backend](https://github.com/BenjaminKakai/msafiri-ventures-backend)
+
+</td>
+</tr>
+</table>
+
+### 📱 Wasaa Suite (Wasaachat ecosystem)
+
+| Product | What it does | Stack |
+|---|---|---|
+| **wasaachat** | Chat client, real-time messaging | Flutter · WebRTC · NestJS |
+| **wasaa-remit** | Cross-border remittance | Stripe · M-Pesa · Thunes · KCB Vooma |
+| **wasaa-lifestyle** | Service booking marketplace | NestJS · Next.js |
+| **wasaa-tipping / escrow / payroll** | Microservices for the financial layer | NestJS |
+| **[wasaachat ↔ wasaapay integration](https://github.com/BenjaminKakai/wasaachat-wasaapay-integration)** | In-chat payments | TypeScript |
+
+### 🎮 Shanzz Gaming, 🤖 [TestPilot AI](https://testpilot.ai), 💊 [AfyaPass](https://afyapass.com), 🙏 FaithPanda, 📚 SkillSasa, 💅 PostNet, 🌍 DMRV, 🔐 Kins, 🎉 PartyPass
 Active client products at various stages — from production with daily users to first-mile MVPs.
 
 ---
 
-## Tech I reach for
+## 🛠️ Tech I reach for
 
-**Backend**: Spring Boot · NestJS · Express · FastAPI · Ruby on Rails
-**Frontend**: Next.js · React · TypeScript · Tailwind · Material 3
-**Mobile**: Flutter · Riverpod · GoRouter · iOS code-signing · Play upload keys
-**Data**: PostgreSQL · Flyway · Prisma · Redis · vector stores
-**Infra**: Docker · Kubernetes · Helm · ArgoCD · GitHub Actions · GHCR · AWS · DigitalOcean
-**Payments**: M-Pesa Daraja · Stripe · Thunes · KCB Vooma · Safaricom integrations
-**AI**: OpenAI · Anthropic Claude · embeddings · RAG pipelines
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,nodejs,express,typescript,react,nextjs,tailwind&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,postgres,redis,docker,kubernetes&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,bash,linux,git,github,githubactions,nginx&theme=dark" />
+</p>
+
+**Backend** · Spring Boot · NestJS · Express · FastAPI · Ruby on Rails
+**Frontend** · Next.js · React · TypeScript · Tailwind · Material 3
+**Mobile** · Flutter · Riverpod · GoRouter · iOS code-signing · Play upload keys
+**Data** · PostgreSQL · Flyway · Prisma · Redis · vector stores · pgvector
+**Infra** · Docker · Kubernetes · Helm · ArgoCD · GitHub Actions · GHCR · AWS · DigitalOcean
+**Payments** · M-Pesa Daraja · Stripe · Thunes · KCB Vooma · Safaricom integrations
+**AI** · OpenAI · Anthropic Claude · embeddings · RAG pipelines
 
 ---
 
-## Engineering principles I work by
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BenjaminKakai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminKakai&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenjaminKakai&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Engineering principles I work by
 
 - **Ship to production**, then iterate. A live URL beats a perfect plan.
 - **Trace bugs to root cause** — never just paper over them with a fallback.
@@ -78,10 +157,10 @@ Active client products at various stages — from production with daily users to
 
 ---
 
-## Get in touch
+## 📫 Get in touch
 
 - 📧 [benjaminkakaimasai@gmail.com](mailto:benjaminkakaimasai@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/benjamin-kakai-7b599121a)
 - 🏢 Webmasters Kenya Ltd
 
-If you want a real demo of any of the systems above, reach out — I'll spin you up a test account in the relevant role and walk you through it live.
+> If you want a real demo of any of the systems above, reach out — I'll spin you up a test account in the relevant role and walk you through it live.
